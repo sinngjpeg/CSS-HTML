@@ -1,14 +1,9 @@
 body {
-    background-color: #000000;
+    background-color: black;
     color: #F6F6F6;
 }
 
-.titulo-destaque {
-    color: #22D4FD;
-}
-
-
-/* p {
+p {
     color: #F6F6F6;
 }
 
@@ -22,9 +17,11 @@ span{
     padding: 10px;
 }
 
-
+.destaque {
+    color: #22D4FD;
+}
 
 a {
     background-color: #22D4FD;
     color: black;
-} */
+}
